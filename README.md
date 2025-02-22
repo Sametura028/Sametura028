@@ -1,4 +1,4 @@
-## Hi there 👋 I am Samet
+## Hi👋 I am Samet
  I’m currently learning<br> I’m learning game development right now
 
 
