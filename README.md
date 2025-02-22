@@ -1,5 +1,5 @@
 ## Hi👋 I am Samet
- I’m currently learning<br> I’m learning game development right now
+ <!-- I’m currently learning<br> I’m learning game development right now -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
